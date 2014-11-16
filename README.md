@@ -1,7 +1,7 @@
 HAPPY 4th ANNIVERSARY ATE LANGGA
 ============
 
-[Click to see Live Demo](http://github.com/bartaz/impress.js/blob/master/index.html)
+[Click to see Live Demo](http://jbagaresgaray.github.io/Anniversary)
 
 Dear Ate Janine
 First of all all I would like to say?
